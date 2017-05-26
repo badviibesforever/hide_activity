@@ -1,0 +1,14 @@
+{
+  "name": "hide_activity",
+  "version": "1.0.0",
+  "description": "hides Steam activity",
+  "main": "hide_activity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "steam-user": "*"
+  },
+  "author": "Jafet Sinke (Jafix)",
+  "license": "ISC"
+}
